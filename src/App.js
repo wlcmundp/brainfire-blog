@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Blogs from "./pages/Blogs";
+import CreateBlog from "./pages/CreateBlog";
+import BlogDetail from "./pages/BlogDetail";
 
-function App() {
+import BlogEdit from "./pages/EditBlog";
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Routes>
+        <Route exact path="/admin">
+          <Route exact path="/admin" />
+          <Route exact path="blogs" element={<Blogs />} />
+          <Route exact path="add-new-blog" element={<CreateBlog />} />
+          <Route exact path="blog-detail/:slug" element={<BlogDetail />} />
+          <Route exact path="edit-blog-details/:id" element={<BlogEdit />} />
+        </Route>
+      </Routes>
+    </Router>
   );
-}
+};
 
 export default App;
