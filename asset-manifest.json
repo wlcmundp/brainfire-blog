@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/wlcmundp/brainfire-blog/admin/blogs/static/css/main.9ae65e89.css",
-    "main.js": "/wlcmundp/brainfire-blog/admin/blogs/static/js/main.74394c3a.js",
-    "static/js/787.ef43924e.chunk.js": "/wlcmundp/brainfire-blog/admin/blogs/static/js/787.ef43924e.chunk.js",
-    "static/media/blog-2.jpg": "/wlcmundp/brainfire-blog/admin/blogs/static/media/blog-2.8caf9f27f285d6b4f966.jpg",
-    "static/media/blog-1.jpg": "/wlcmundp/brainfire-blog/admin/blogs/static/media/blog-1.58bcfad119ce3888aef1.jpg",
-    "static/media/blog-detail.jpg": "/wlcmundp/brainfire-blog/admin/blogs/static/media/blog-detail.c9d89993e08066909aa7.jpg",
-    "static/media/insta-icon.svg": "/wlcmundp/brainfire-blog/admin/blogs/static/media/insta-icon.b75fe6a59e41ec16da08.svg",
-    "index.html": "/wlcmundp/brainfire-blog/admin/blogs/index.html",
-    "static/media/linkedin-icon.svg": "/wlcmundp/brainfire-blog/admin/blogs/static/media/linkedin-icon.87d8cb467deebc1ab937.svg",
-    "static/media/fb-icon.svg": "/wlcmundp/brainfire-blog/admin/blogs/static/media/fb-icon.8e9802f084abee7bcdeb.svg",
-    "static/media/success-ico.svg": "/wlcmundp/brainfire-blog/admin/blogs/static/media/success-ico.5f318aca63bd6d2b2a0c.svg",
-    "static/media/error-ico.svg": "/wlcmundp/brainfire-blog/admin/blogs/static/media/error-ico.d8e958b11fb70f80dd9c.svg",
-    "main.9ae65e89.css.map": "/wlcmundp/brainfire-blog/admin/blogs/static/css/main.9ae65e89.css.map",
-    "main.74394c3a.js.map": "/wlcmundp/brainfire-blog/admin/blogs/static/js/main.74394c3a.js.map",
-    "787.ef43924e.chunk.js.map": "/wlcmundp/brainfire-blog/admin/blogs/static/js/787.ef43924e.chunk.js.map"
+    "main.css": "/brainfire-blog/admin/blogs/static/css/main.d20b93cc.css",
+    "main.js": "/brainfire-blog/admin/blogs/static/js/main.f40cc93e.js",
+    "static/js/787.ef43924e.chunk.js": "/brainfire-blog/admin/blogs/static/js/787.ef43924e.chunk.js",
+    "static/media/blog-2.jpg": "/brainfire-blog/admin/blogs/static/media/blog-2.8caf9f27f285d6b4f966.jpg",
+    "static/media/blog-1.jpg": "/brainfire-blog/admin/blogs/static/media/blog-1.58bcfad119ce3888aef1.jpg",
+    "static/media/blog-detail.jpg": "/brainfire-blog/admin/blogs/static/media/blog-detail.c9d89993e08066909aa7.jpg",
+    "static/media/insta-icon.svg": "/brainfire-blog/admin/blogs/static/media/insta-icon.b75fe6a59e41ec16da08.svg",
+    "index.html": "/brainfire-blog/admin/blogs/index.html",
+    "static/media/linkedin-icon.svg": "/brainfire-blog/admin/blogs/static/media/linkedin-icon.87d8cb467deebc1ab937.svg",
+    "static/media/fb-icon.svg": "/brainfire-blog/admin/blogs/static/media/fb-icon.8e9802f084abee7bcdeb.svg",
+    "static/media/success-ico.svg": "/brainfire-blog/admin/blogs/static/media/success-ico.5f318aca63bd6d2b2a0c.svg",
+    "static/media/error-ico.svg": "/brainfire-blog/admin/blogs/static/media/error-ico.d8e958b11fb70f80dd9c.svg",
+    "main.d20b93cc.css.map": "/brainfire-blog/admin/blogs/static/css/main.d20b93cc.css.map",
+    "main.f40cc93e.js.map": "/brainfire-blog/admin/blogs/static/js/main.f40cc93e.js.map",
+    "787.ef43924e.chunk.js.map": "/brainfire-blog/admin/blogs/static/js/787.ef43924e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ae65e89.css",
-    "static/js/main.74394c3a.js"
+    "static/css/main.d20b93cc.css",
+    "static/js/main.f40cc93e.js"
   ]
 }
